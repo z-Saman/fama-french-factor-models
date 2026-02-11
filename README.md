@@ -35,11 +35,15 @@ Two models are estimated using Ordinary Least Squares (OLS):
 
 ### 1. CAPM
 
-R_i - R_f = α + β_MKT (MKT - RF) + ε
+$$
+R_i - R_f = \alpha + \beta_{MKT}(MKT - RF) + \varepsilon
+$$
 
 ### 2. Fama–French Three-Factor Model
 
-R_i - R_f = α + β_MKT MKT + β_SMB SMB + β_HML HML + ε
+$$
+R_i - R_f = \alpha + \beta_{MKT}(MKT - RF) + \beta_{SMB}SMB + \beta_{HML}HML + \varepsilon
+$$
 
 Model performance is evaluated using:
 
