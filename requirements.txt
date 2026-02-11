@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.7
+statsmodels>=0.14
+yfinance>=0.2
+pandas-datareader>=0.10
